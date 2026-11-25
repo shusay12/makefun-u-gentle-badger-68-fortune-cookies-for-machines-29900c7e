@@ -1,0 +1,11 @@
+# Build working files — never committed
+kit.tar.gz
+u-gentle-badger-68-fortune-cookies-for-machines-29900c7e-kit/
+out/
+run1/
+run2/
+transcripts.tar.gz
+BUILD-REPORT.md
+*.log
+*.pid
+__pycache__/
